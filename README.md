@@ -10,4 +10,4 @@ Samples:
 ![RFM Insights](https://user-images.githubusercontent.com/40695609/145723658-f2232e01-1431-4ebe-bcea-ed8442981eaa.png)
 
 
-For work check [RFM Analysis](https://app.powerbi.com/groups/me/reports/6e891206-a3b0-44c6-8387-d0d5dc9234e6/ReportSection?bookmarkGuid=Bookmark7572b4f8650046ab0dc1)
+For work check [RFM Analysis](https://app.powerbi.com/groups/me/reports/6e891206-a3b0-44c6-8387-d0d5dc9234e6/ReportSection)
