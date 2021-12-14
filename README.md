@@ -4,7 +4,8 @@ Data was given by an organization partner to perform analysis on it's sales to t
 
 Samples: 
 
-![Main Dashboard](https://user-images.githubusercontent.com/40695609/145723654-54d2a5e8-4910-4abd-bbc7-1fe19f846c26.png)
+
+![Main Dashboard](https://user-images.githubusercontent.com/40695609/145938682-c7558c8d-39fb-4e93-bd96-6d91f97a8400.png)
 
 
 ![RFM Insights](https://user-images.githubusercontent.com/40695609/145723658-f2232e01-1431-4ebe-bcea-ed8442981eaa.png)
